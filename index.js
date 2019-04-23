@@ -18,6 +18,8 @@ function johnLennonFacts(facts) {
   return shoutedFacts
 }
 
-function iLoveTheBeatles() {
-  var array 
+function iLoveTheBeatles(n) {
+  var array = []
+  
+  do (n)
 }
