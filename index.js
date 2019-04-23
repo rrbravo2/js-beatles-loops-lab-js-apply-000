@@ -22,5 +22,5 @@ function iLoveTheBeatles(n) {
   var array = []
   
   do { 
-    array.
+    array.push()
 }
